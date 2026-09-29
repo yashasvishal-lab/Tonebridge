@@ -1,0 +1,6 @@
+{
+  "name": "Tonebridge",
+  "description": "An air-gapped acoustic data link: real-time MFSK modem, Reed-Solomon FEC and an authenticated secure channel, entirely in the browser.",
+  "prompt": "Tonebridge - an air-gapped acoustic data link: real-time MFSK modem, Reed-Solomon FEC and an authenticated secure channel, entirely in the browser.",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

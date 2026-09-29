@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Tonebridge">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12202e"/>
+      <stop offset="1" stop-color="#071018"/>
+    </linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#56e0c8"/>
+      <stop offset="1" stop-color="#7fd6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="108" fill="url(#g)"/>
+  <rect x="8" y="8" width="496" height="496" rx="102" fill="none" stroke="rgba(122,162,200,0.28)" stroke-width="4"/>
+  <path d="M56 316c56 0 56-180 112-180s56 180 112 180 56-180 112-180 56 180 64 180"
+        fill="none" stroke="url(#a)" stroke-width="26" stroke-linecap="round"/>
+  <g fill="#56e0c8">
+    <circle cx="104" cy="392" r="18"/>
+    <circle cx="256" cy="392" r="18"/>
+    <circle cx="408" cy="392" r="18"/>
+  </g>
+</svg>

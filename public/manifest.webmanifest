@@ -1,0 +1,16 @@
+{
+  "name": "Tonebridge — acoustic data link",
+  "short_name": "Tonebridge",
+  "description": "Air-gapped data link over sound. MFSK modem with Reed-Solomon FEC and an authenticated encrypted channel.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080b10",
+  "theme_color": "#080b10",
+  "categories": ["utilities", "productivity", "developer tools"],
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
